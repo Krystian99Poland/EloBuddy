@@ -1,0 +1,11 @@
+c:\users\krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\UZyra.exe.config
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\obj\Debug\UZyra.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\UZyra.exe
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\UZyra.pdb
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\EloBuddy.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\SharpDX.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\obj\Debug\UZyra.exe
+C:\Users\Krystian\documents\visual studio 2015\Projects\UZyra\UZyra\obj\Debug\UZyra.pdb
