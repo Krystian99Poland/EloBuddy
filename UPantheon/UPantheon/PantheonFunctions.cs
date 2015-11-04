@@ -186,7 +186,11 @@ namespace UPantheon
                 AIHeroClient enemy = (AIHeroClient)GetEnemy(Program.E.Range, GameObjectType.AIHeroClient);
 
                 if (enemy != null)
-                    Program.E.Cast(enemy.Position);
+                Orbwalker.DisableAttacking = true;
+                Orbwalker.DisableMovement = true;
+                Program.E.Cast(enemy.Position);
+                Orbwalker.DisableAttacking = false;
+                Orbwalker.DisableMovement = false;
             }
 
             if (ItemsCHECK)
