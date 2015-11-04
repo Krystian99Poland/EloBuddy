@@ -1,0 +1,20 @@
+c:\users\krystian\documents\visual studio 2015\Projects\UPantheon\UPantheon\bin\Debug\UPantheon.exe.config
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\obj\Debug\UPantheon.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\UPantheon.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\UPantheon.pdb
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\EloBuddy.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\SharpDX.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\obj\Debug\UPantheon.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\UPantheon\UPantheon\obj\Debug\UPantheon.pdb
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\bin\Debug\UPantheon.exe.config
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\obj\Debug\UPantheon.exe
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\obj\Debug\UPantheon.pdb
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\bin\Debug\UPantheon.exe
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\bin\Debug\UPantheon.pdb
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\bin\Debug\SharpDX.Direct3D9.dll
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\bin\Debug\Newtonsoft.Json.dll
+D:\axell\PB Weapons\Math\UPantheon\UPantheon\obj\Debug\UPantheon.csprojResolveAssemblyReference.cache
