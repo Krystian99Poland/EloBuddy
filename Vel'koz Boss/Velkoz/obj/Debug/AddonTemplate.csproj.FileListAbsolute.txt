@@ -1,0 +1,13 @@
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\AddonTemplate\bin\Debug\AddonTemplate.exe.config
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\AddonTemplate.exe.config
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\obj\Debug\AddonTemplate.csprojResolveAssemblyReference.cache
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\AddonTemplate.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\AddonTemplate.pdb
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\EloBuddy.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\EloBuddy.Sandbox.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\EloBuddy.SDK.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\SharpDX.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\SharpDX.Direct3D9.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\obj\Debug\AddonTemplate.exe
+C:\Users\Krystian\Documents\Visual Studio 2015\Projects\RumbleBoss\RumbleBoss\obj\Debug\AddonTemplate.pdb
